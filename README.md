@@ -14,7 +14,7 @@
 3. メンションされたメンバーは内容を確認し，問題なければコメントにスタンプを付ける．意義があればディスカッションする．
 4. 全員からスタンプを押されたらIssueをクローズする．
 
-![howToUseIssue](images\howToUseIssue.jpg)
+![howToUseIssue](images/howToUseIssue.jpg)
 
 ## その他
 - レポジトリを公開しているため，パスワードなどの機密情報の扱いには厳重に注意する．
