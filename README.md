@@ -16,5 +16,17 @@
 
 ![howToUseIssue](images/howToUseIssue.jpg)
 
+## SSH接続方法
+1. ターミナルから下記のコマンドを実行する
+    ```bash
+    ssh server-master@192.168.111.194
+    ```
+2. パスワードを入力する
+    パスワードが要求されるので、それを入力する。パスワードは筋肉サーバーのNotionホームページにある.
+
+SSH接続が成功すると以下のような画面が出る↓
+
+<img src='images/sshSuccessedScreen.png' width='50%'>
+
 ## その他
 - レポジトリを公開しているため，パスワードなどの機密情報の扱いには厳重に注意する．
